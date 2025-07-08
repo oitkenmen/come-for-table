@@ -1,2 +1,2 @@
-# come-for-table
-Come for Table - seating system
+### Come for Table
+Seating system
